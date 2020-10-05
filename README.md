@@ -1,4 +1,4 @@
-# Node-repo
+# Javascript-repo
 Contains links to some articles on advanced topics in Node
 
 
