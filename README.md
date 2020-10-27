@@ -8,3 +8,4 @@ Contains links to some articles on advanced topics in Node
 4. [Convert callbacks to promises](https://medium.com/@suyashmohan/util-promisify-in-node-js-v8-d07ef4ea8c53)
 5. [Design Patterns in Javascript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 6. [THIS](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+7. [Environment variables](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html)
