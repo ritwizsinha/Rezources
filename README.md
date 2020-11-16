@@ -9,3 +9,4 @@ Contains links to some articles on advanced topics in Node
 5. [Design Patterns in Javascript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 6. [THIS](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 7. [Environment variables](https://www.twilio.com/blog/working-with-environment-variables-in-node-js-html)
+8. [Lazy Load, Eager Load, Lazy eval](https://stackoverflow.com/questions/38969877/what-is-the-use-of-lazy-loading-in-meteor/51158735#51158735)
