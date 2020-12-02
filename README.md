@@ -18,4 +18,4 @@ Contains links to some articles on advanced topics in Node
 
 1. [SEO in React](https://www.youtube.com/watch?v=3B7gBVTsEaE&ab_channel=ReactNext)
 2. [SEO for Developers](https://www.youtube.com/watch?v=JSm4aQl4w_U&t=19s&ab_channel=JavaScriptMastery)
-3. 
+3. [SEO in Google Chroms](https://www.youtube.com/watch?v=LXF8bM4g-J4&list=PLKoqnv2vTMUPOalM1zuWDP9OQl851WMM9&ab_channel=GoogleSearchCentral)
