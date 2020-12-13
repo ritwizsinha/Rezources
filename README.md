@@ -14,6 +14,10 @@ Contains links to some articles on advanced topics in Node
 8. [Lazy Load, Eager Load, Lazy eval](https://stackoverflow.com/questions/38969877/what-is-the-use-of-lazy-loading-in-meteor/51158735#51158735)
 
 
+### React
+1. [Immutablity in React](https://blog.logrocket.com/immutability-in-react-ebe55253a1cc/)
+
+
 ### SEO
 
 1. [SEO in React](https://www.youtube.com/watch?v=3B7gBVTsEaE&ab_channel=ReactNext)
