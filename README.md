@@ -15,7 +15,7 @@ Contains links to some articles on advanced topics in Node
 
 
 ### React
-1. [Immutablity in React](https://blog.logrocket.com/immutability-in-react-ebe55253a1cc/)
+1. [Immutablity in React && Using Persistent data structures for immutablity](https://blog.logrocket.com/immutability-in-react-ebe55253a1cc/)
 
 
 ### SEO
