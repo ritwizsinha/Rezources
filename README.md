@@ -40,5 +40,6 @@ Contains links to some articles on advanced topics in Node
 4. [All Status Codes](https://dynomapper.com/blog/254-the-6-types-of-http-status-codes-explained)
 5. [301 vs 302](https://www.ltnow.com/difference-301-302-redirects-seo/)
 6. [PRG pattern](https://chase-seibert.github.io/blog/2012/10/19/post-redirect-get-prg-pattern.html)
+7. [HTTP/2 vs HTTP/1.1](https://www.cloudflare.com/learning/performance/http2-vs-http1.1)
 #### TCP
 1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
