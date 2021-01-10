@@ -32,9 +32,11 @@ Contains links to some articles on advanced topics in Node
 
 ### Networking
 1. [Top Down Approach](http://www2.ic.uff.br/~michael/kr1999/0_0-Contents.htm)
+2. [WireShark](https://www.howtogeek.com/104278/how-to-use-wireshark-to-capture-filter-and-inspect-packets/)
 #### HTTP
 1. [Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
 2. [Methods](https://restfulapi.net/http-methods/)
 3. [PUT vs POST](https://stackoverflow.com/questions/630453/put-vs-post-in-rest/630475#630475)
+4. [All Status Codes](https://dynomapper.com/blog/254-the-6-types-of-http-status-codes-explained)
 #### TCP
 1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
