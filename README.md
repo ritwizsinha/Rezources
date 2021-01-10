@@ -33,3 +33,5 @@ Contains links to some articles on advanced topics in Node
 ### Networking
 #### HTTP
 1. [Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
+#### TCP
+1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
