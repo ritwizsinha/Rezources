@@ -34,5 +34,7 @@ Contains links to some articles on advanced topics in Node
 1. [Top Down Approach](http://www2.ic.uff.br/~michael/kr1999/0_0-Contents.htm)
 #### HTTP
 1. [Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
+2. [Methods](https://restfulapi.net/http-methods/)
+3. [PUT vs POST](https://stackoverflow.com/questions/630453/put-vs-post-in-rest/630475#630475)
 #### TCP
 1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
