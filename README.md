@@ -39,5 +39,6 @@ Contains links to some articles on advanced topics in Node
 3. [PUT vs POST](https://stackoverflow.com/questions/630453/put-vs-post-in-rest/630475#630475)
 4. [All Status Codes](https://dynomapper.com/blog/254-the-6-types-of-http-status-codes-explained)
 5. [301 vs 302](https://www.ltnow.com/difference-301-302-redirects-seo/)
+6. [PRG pattern](https://chase-seibert.github.io/blog/2012/10/19/post-redirect-get-prg-pattern.html)
 #### TCP
 1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
