@@ -28,3 +28,8 @@ Contains links to some articles on advanced topics in Node
 ### Database
 1. [Why Discord moved from Mongo to Cassandra](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 2. [How Dream11 Supports 5M+ users](https://yourstory.com/session/dream11-fantasy-sports-tech-stack-aws?registrationForm=true#)
+
+
+### Networking
+#### HTTP
+1. [Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
