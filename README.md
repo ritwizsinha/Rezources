@@ -47,3 +47,6 @@ Contains links to some articles on advanced topics in Node
 8. [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 #### TCP
 1. [Multiplexing in protocols](http://www2.ic.uff.br/~michael/kr1999/3-transport/3_02-fund.html)
+
+#### GIT
+1. [Some respite for Git fuckups](https://ohshitgit.com/)
