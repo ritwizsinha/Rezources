@@ -36,6 +36,7 @@ Contains links to some articles on advanced topics in Node
 1. [Top Down Approach](http://www2.ic.uff.br/~michael/kr1999/0_0-Contents.htm)
 2. [WireShark](https://www.howtogeek.com/104278/how-to-use-wireshark-to-capture-filter-and-inspect-packets/)
 3. [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+4. [REST vs RPC vs GRAPHQl](https://www.youtube.com/watch?v=IvsANO0qZEg&ab_channel=OktaDev)
 #### HTTP
 1. [Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
 2. [Methods](https://restfulapi.net/http-methods/)
