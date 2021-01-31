@@ -51,3 +51,6 @@ Contains links to some articles on advanced topics in Node
 
 #### GIT
 1. [Some respite for Git fuckups](https://ohshitgit.com/)
+
+#### Projects
+1. [List of good projects](https://cse.final-year-projects.in)
