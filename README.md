@@ -57,3 +57,4 @@ Contains links to some articles on advanced topics in Node
 
 #### Clean Architecture
 1. [Typescript with Clean Architecture](https://www.freecodecamp.org/news/a-typescript-stab-at-clean-architecture-b51fbb16a304/)
+2. [Node Patterns](https://dev.to/santypk4/bulletproof-node-js-project-architecture-4epf)
