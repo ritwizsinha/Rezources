@@ -54,3 +54,6 @@ Contains links to some articles on advanced topics in Node
 
 #### Projects
 1. [List of good projects](https://cse.final-year-projects.in)
+
+#### Clean Architecture
+1. [Typescript with Clean Architecture](https://www.freecodecamp.org/news/a-typescript-stab-at-clean-architecture-b51fbb16a304/)
