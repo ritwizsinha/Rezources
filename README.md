@@ -69,3 +69,7 @@ Contains links to some articles on advanced topics in Node
 
 #### Mongo
 1. [Difference Insert, InsertOne InsertMany](https://stackoverflow.com/questions/36792649/whats-the-difference-between-insert-insertone-and-insertmany-method#:~:text=The%20insert()%20method%20is,multiple%20documents%20into%20your%20collection.)
+
+
+#### Javascript
+1.  [Is promise.all concurrent](https://anotherdev.xyz/promise-all-runs-in-parallel/#:~:text=In%20single%2Dcore%20CPU%20the,event%20if%20multiple%20reject%20happens.)
