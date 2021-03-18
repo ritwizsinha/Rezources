@@ -64,3 +64,8 @@ Contains links to some articles on advanced topics in Node
 
 #### Interview
 1. [Interview Resources](http://adilet.org/blog/your-ultimate-guide-to-interview-preparation/)
+
+
+
+#### Mongo
+1. [Difference Insert, InsertOne InsertMany](https://stackoverflow.com/questions/36792649/whats-the-difference-between-insert-insertone-and-insertmany-method#:~:text=The%20insert()%20method%20is,multiple%20documents%20into%20your%20collection.)
