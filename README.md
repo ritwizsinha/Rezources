@@ -73,3 +73,4 @@ Contains links to some articles on advanced topics in Node
 
 #### Javascript
 1.  [Is promise.all concurrent](https://anotherdev.xyz/promise-all-runs-in-parallel/#:~:text=In%20single%2Dcore%20CPU%20the,event%20if%20multiple%20reject%20happens.)
+2.  [Complicating Console Logs](https://www.sitepoint.com/beyond-console-log-level-up-your-debugging-skills/)
