@@ -1,5 +1,11 @@
 # A Set of good resources for some topics
 
+
+### Good Blogs
+- [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
+- [AndreInc](https://www.andreinc.net/)
+- [Probably Dance](https://probablydance.com/)
+
 ### Node
 Contains links to some articles on advanced topics in Node
 
