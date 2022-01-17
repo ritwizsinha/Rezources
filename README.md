@@ -5,6 +5,25 @@
 - [Leslie Lamport](https://lamport.azurewebsites.net/pubs/pubs.html)
 - [AndreInc](https://www.andreinc.net/)
 - [Probably Dance](https://probablydance.com/)
+- [Buildd](https://buildd.co/)
+- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
+- [Irrational Exuberance](https://lethain.com/)
+- [Eli Bendersky Website](https://eli.thegreenplace.net/)
+- [Bruno Calza](https://brunocalza.me/)
+- [The insane App](https://www.theinsaneapp.com/)
+- [VS Code](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
+- [Junior to Senior](https://juniortosenior.io/)
+- [Hackerneews Post](https://news.ycombinator.com/item?id=28670372)
+- [James Sinclair](https://jrsinclair.com/)
+- [Code Kata](http://codekata.com/)
+- [Slack Engineering](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale/)
+- [Tim Caldec](https://timkadlec.com/remembers/)
+- [Idlewords](https://idlewords.com/)
+- [pncnmnp](https://pncnmnp.github.io/blogs/oss-guide.html)
+- [Martin Fowler](https://pncnmnp.github.io/blogs/oss-guide.html)
+- [Sym·poly·mathesy](https://v5.chriskrycho.com/)
+- [Refactoring UI](https://www.refactoringui.com/book)
+- [Tutiqs Learning Books](https://www.notion.so/tuttiq/a408880a6b3b47389d8992f5ea800b05?v=e50b8c4fb4604c488c7b7647832953a7)
 
 ### Node
 Contains links to some articles on advanced topics in Node
@@ -82,3 +101,23 @@ Contains links to some articles on advanced topics in Node
 #### Javascript
 1.  [Is promise.all concurrent](https://anotherdev.xyz/promise-all-runs-in-parallel/#:~:text=In%20single%2Dcore%20CPU%20the,event%20if%20multiple%20reject%20happens.)
 2.  [Complicating Console Logs](https://www.sitepoint.com/beyond-console-log-level-up-your-debugging-skills/)
+
+
+### Psychology
+1. [FS](https://fs.blog/)
+2. [Big Think](https://bigthink.com/)
+3. [Civilization Merging](https://civilizationemerging.com/)
+4. 
+
+
+### NLP
+1. [Text Tilling](https://aclanthology.org/J97-1003/)
+
+### Web3
+1. [Kernel Community](https://kernel.community/en/)
+
+
+### Programming Languages
+1. [Unison](https://www.unisonweb.org/)
+2. [Awesome Compilers](https://github.com/aalhour/awesome-compilers)
+3. 
